@@ -1,1 +1,7 @@
 fastapi[all]
+google-auth-oauthlib
+google-auth
+google-api-python-client
+httpx
+uvicorn
+python-multipart
